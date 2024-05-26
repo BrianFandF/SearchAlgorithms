@@ -1,0 +1,5 @@
+﻿  Iw2.cpp
+D:\University\Алгоритми\Iw№2\Iw2\Iw2.cpp(82,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\University\Алгоритми\Iw№2\Iw2\Iw2.cpp(65,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\University\Алгоритми\Iw№2\Iw2\Iw2.cpp(113): message : выполняется компиляция ссылки на экземпляр шаблон функции "int sequential_search<int>(std::vector<int,std::allocator<int>>,int)"
+  Iw2.vcxproj -> D:\University\Алгоритми\Iw№2\Iw2\Debug\Iw2.exe
